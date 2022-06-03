@@ -1,4 +1,4 @@
-Perm1c-AlgebraAbstracta
+Perm2a-AlgebraAbstracta
 
 Para el ejercicio número 1:
 
